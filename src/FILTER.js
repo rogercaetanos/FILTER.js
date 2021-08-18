@@ -15,3 +15,7 @@ var FILTER = {
     Classy: Classy, Asynchronous: Asynchronous,
     Class: Classy.Class, Path: Asynchronous.path( ModuleFactory__FILTER.moduleUri )
 };
+ let myObject = {
+     properties: "test"
+ }
+
